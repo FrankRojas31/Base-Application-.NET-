@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Backend-Base\\Base.API.csproj": {}
+    "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Backend-Base\\Base.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Backend-Base\\Base.API.csproj": {
+    "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Backend-Base\\Base.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Backend-Base\\Base.API.csproj",
+        "projectUniqueName": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Backend-Base\\Base.API.csproj",
         "projectName": "Base.API",
-        "projectPath": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Backend-Base\\Base.API.csproj",
-        "packagesPath": "C:\\Users\\EmmaPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Backend-Base\\obj\\",
+        "projectPath": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Backend-Base\\Base.API.csproj",
+        "packagesPath": "C:\\Users\\Frank Rojas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Backend-Base\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\EmmaPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Frank Rojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,14 +22,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Application.Services\\Base.Application.Services.csproj": {
-                "projectPath": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Application.Services\\Base.Application.Services.csproj"
+              "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Application.Services\\Base.Application.Services.csproj": {
+                "projectPath": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Application.Services\\Base.Application.Services.csproj"
               }
             }
           }
@@ -90,24 +88,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Application.Services\\Base.Application.Services.csproj": {
+    "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Application.Services\\Base.Application.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Application.Services\\Base.Application.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Application.Services\\Base.Application.Services.csproj",
         "projectName": "Base.Application.Services",
-        "projectPath": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Application.Services\\Base.Application.Services.csproj",
-        "packagesPath": "C:\\Users\\EmmaPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Application.Services\\obj\\",
+        "projectPath": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Application.Services\\Base.Application.Services.csproj",
+        "packagesPath": "C:\\Users\\Frank Rojas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Application.Services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\EmmaPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Frank Rojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -115,17 +110,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Domain\\Base.Domain.csproj": {
-                "projectPath": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Domain\\Base.Domain.csproj"
+              "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Domain\\Base.Domain.csproj": {
+                "projectPath": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Domain\\Base.Domain.csproj"
               },
-              "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj": {
-                "projectPath": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj"
+              "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj": {
+                "projectPath": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj"
               }
             }
           }
@@ -190,24 +186,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Common\\Base.Common.csproj": {
+    "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Common\\Base.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Common\\Base.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Common\\Base.Common.csproj",
         "projectName": "Base.Common",
-        "projectPath": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Common\\Base.Common.csproj",
-        "packagesPath": "C:\\Users\\EmmaPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Common\\obj\\",
+        "projectPath": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Common\\Base.Common.csproj",
+        "packagesPath": "C:\\Users\\Frank Rojas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Common\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\EmmaPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Frank Rojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -215,6 +208,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -253,24 +247,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Domain\\Base.Domain.csproj": {
+    "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Domain\\Base.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Domain\\Base.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Domain\\Base.Domain.csproj",
         "projectName": "Base.Domain",
-        "projectPath": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Domain\\Base.Domain.csproj",
-        "packagesPath": "C:\\Users\\EmmaPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Domain\\Base.Domain.csproj",
+        "packagesPath": "C:\\Users\\Frank Rojas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\EmmaPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Frank Rojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -278,14 +269,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Common\\Base.Common.csproj": {
-                "projectPath": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Common\\Base.Common.csproj"
+              "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Common\\Base.Common.csproj": {
+                "projectPath": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Common\\Base.Common.csproj"
               }
             }
           }
@@ -330,24 +322,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj": {
+    "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj",
         "projectName": "Base.Infraestructura.Data",
-        "projectPath": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj",
-        "packagesPath": "C:\\Users\\EmmaPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Infraestructura.Datos\\obj\\",
+        "projectPath": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj",
+        "packagesPath": "C:\\Users\\Frank Rojas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\EmmaPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Frank Rojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -355,14 +344,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Domain\\Base.Domain.csproj": {
-                "projectPath": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Domain\\Base.Domain.csproj"
+              "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Domain\\Base.Domain.csproj": {
+                "projectPath": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Domain\\Base.Domain.csproj"
               }
             }
           }
@@ -429,7 +419,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

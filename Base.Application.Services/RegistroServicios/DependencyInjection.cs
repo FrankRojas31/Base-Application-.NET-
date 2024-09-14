@@ -1,9 +1,13 @@
 ﻿using AutoMapper;
 using Base.Application.Service.Interfaces.Contracts.Seguridad;
+using Base.Application.Services.Interfaces.Contrato.Universidad;
 using Base.Application.Services.Interfaces.Implementacion.Seguridad;
+using Base.Application.Services.Interfaces.Implementacion.Universidad;
 using Base.Application.Services.Mapeo;
 using Base.Infraestructura.Data.Repositorios.Contrato.Seguridad;
+using Base.Infraestructura.Data.Repositorios.Contrato.Universidad;
 using Base.Infraestructura.Data.Repositorios.Implementacion.Seguridad;
+using Base.Infraestructura.Data.Repositorios.Implementacion.Universidad;
 using Base.Infraestructura.Datos.ContextoBD;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -43,12 +47,14 @@ namespace Base.Application.Services.RegistroServicios
         private static void AddServices(IServiceCollection services)
         {
             services.AddScoped<IUserAccountService, UserAccountService>();
+            services.AddScoped<IFormularioService, FormularioService>();
         }
 
         private static void AddRepository(IServiceCollection services)
         {
             services.AddScoped<IAccountRepository, AccountRepository>();
             services.AddScoped<IApplicationUserRepository, ApplicationUserRepository>();
+            services.AddScoped<IFormularioRepository, FormularioRepository>();
         }
     }
 }

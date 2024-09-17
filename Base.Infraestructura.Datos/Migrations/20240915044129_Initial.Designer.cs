@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Base.Infraestructura.Data.Migrations
 {
     [DbContext(typeof(DataBaseContext))]
-    [Migration("20240910013926_Initial")]
+    [Migration("20240915044129_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
@@ -74,7 +74,6 @@ namespace Base.Infraestructura.Data.Migrations
                         .HasColumnType("datetimeoffset");
 
                     b.Property<string>("Name")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("NormalizedEmail")
@@ -95,7 +94,6 @@ namespace Base.Infraestructura.Data.Migrations
                         .HasColumnType("bit");
 
                     b.Property<string>("RefreshToken")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime?>("RefreshTokenExpiryTime")
@@ -114,7 +112,7 @@ namespace Base.Infraestructura.Data.Migrations
                         .HasMaxLength(256)
                         .HasColumnType("nvarchar(256)");
 
-                    b.Property<int>("personaId")
+                    b.Property<int?>("personaId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -130,6 +128,38 @@ namespace Base.Infraestructura.Data.Migrations
                     b.HasIndex("personaId");
 
                     b.ToTable("AspNetUsers", (string)null);
+                });
+
+            modelBuilder.Entity("Base.Domain.Entidades.Universidad.Formulario", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnOrder(0);
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Direccion")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Edad")
+                        .HasColumnType("int");
+
+                    b.Property<bool>("EsBorrado")
+                        .HasColumnType("bit");
+
+                    b.Property<bool>("EsEstudiante")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Hobbie")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Nombre")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Tbl_Formulario");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
@@ -269,9 +299,7 @@ namespace Base.Infraestructura.Data.Migrations
                 {
                     b.HasOne("Base.Domain.Entidades.Personas.Persona", "persona")
                         .WithMany()
-                        .HasForeignKey("personaId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("personaId");
 
                     b.Navigation("persona");
                 });

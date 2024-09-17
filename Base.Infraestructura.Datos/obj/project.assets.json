@@ -4451,19 +4451,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Frank Rojas\\.nuget\\packages\\": {}
+    "C:\\Users\\EmmaPC\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj",
+      "projectUniqueName": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj",
       "projectName": "Base.Infraestructura.Data",
-      "projectPath": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj",
-      "packagesPath": "C:\\Users\\Frank Rojas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\obj\\",
+      "projectPath": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj",
+      "packagesPath": "C:\\Users\\EmmaPC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Frank Rojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\EmmaPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4471,15 +4475,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Domain\\Base.Domain.csproj": {
-              "projectPath": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Domain\\Base.Domain.csproj"
+            "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Base.Domain\\Base.Domain.csproj": {
+              "projectPath": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Base.Domain\\Base.Domain.csproj"
             }
           }
         }
@@ -4546,7 +4549,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

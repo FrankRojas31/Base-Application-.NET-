@@ -1,50 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\",
+  "WorkspaceRootPath": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17CA80E2-A6C2-4A6B-B8F8-67A0BE07DBC8}|Base.Application.Services\\Base.Application.Services.csproj|c:\\users\\frank rojas\\documents\\repositorios\\base-api-.net-8\\base.application.services\\interfaces\\implementacion\\universidad\\formularioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17CA80E2-A6C2-4A6B-B8F8-67A0BE07DBC8}|Base.Application.Services\\Base.Application.Services.csproj|solutionrelative:base.application.services\\interfaces\\implementacion\\universidad\\formularioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF91BE9D-4983-401D-8A04-937A1F973376}|Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj|c:\\users\\emmapc\\repositorios\\base-api-.net-8\\base.infraestructura.datos\\migrations\\20240915044129_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF91BE9D-4983-401D-8A04-937A1F973376}|Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj|solutionrelative:base.infraestructura.datos\\migrations\\20240915044129_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17CA80E2-A6C2-4A6B-B8F8-67A0BE07DBC8}|Base.Application.Services\\Base.Application.Services.csproj|c:\\users\\frank rojas\\documents\\repositorios\\base-api-.net-8\\base.application.services\\mapeo\\domaintodtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17CA80E2-A6C2-4A6B-B8F8-67A0BE07DBC8}|Base.Application.Services\\Base.Application.Services.csproj|solutionrelative:base.application.services\\mapeo\\domaintodtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF91BE9D-4983-401D-8A04-937A1F973376}|Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj|c:\\users\\emmapc\\repositorios\\base-api-.net-8\\base.infraestructura.datos\\contextobd\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF91BE9D-4983-401D-8A04-937A1F973376}|Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj|solutionrelative:base.infraestructura.datos\\contextobd\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17CA80E2-A6C2-4A6B-B8F8-67A0BE07DBC8}|Base.Application.Services\\Base.Application.Services.csproj|c:\\users\\frank rojas\\documents\\repositorios\\base-api-.net-8\\base.application.services\\interfaces\\contrato\\universidad\\iformularioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17CA80E2-A6C2-4A6B-B8F8-67A0BE07DBC8}|Base.Application.Services\\Base.Application.Services.csproj|solutionrelative:base.application.services\\interfaces\\contrato\\universidad\\iformularioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|c:\\users\\frank rojas\\documents\\repositorios\\base-api-.net-8\\base.domain\\dtos\\formulariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|solutionrelative:base.domain\\dtos\\formulariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|c:\\users\\frank rojas\\documents\\repositorios\\base-api-.net-8\\base.domain\\entidades\\universidad\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|c:\\users\\emmapc\\repositorios\\base-api-.net-8\\base.domain\\entidades\\universidad\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|solutionrelative:base.domain\\entidades\\universidad\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF91BE9D-4983-401D-8A04-937A1F973376}|Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj|c:\\users\\frank rojas\\documents\\repositorios\\base-api-.net-8\\base.infraestructura.datos\\repositorios\\contrato\\universidad\\iformulariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF91BE9D-4983-401D-8A04-937A1F973376}|Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj|solutionrelative:base.infraestructura.datos\\repositorios\\contrato\\universidad\\iformulariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|c:\\users\\emmapc\\repositorios\\base-api-.net-8\\base.domain\\entidades\\seguridad\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|solutionrelative:base.domain\\entidades\\seguridad\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF91BE9D-4983-401D-8A04-937A1F973376}|Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj|c:\\users\\frank rojas\\documents\\repositorios\\base-api-.net-8\\base.infraestructura.datos\\repositorios\\implementacion\\universidad\\formulariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF91BE9D-4983-401D-8A04-937A1F973376}|Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj|solutionrelative:base.infraestructura.datos\\repositorios\\implementacion\\universidad\\formulariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|c:\\users\\emmapc\\repositorios\\base-api-.net-8\\base.domain\\entidades\\personas\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|solutionrelative:base.domain\\entidades\\personas\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF91BE9D-4983-401D-8A04-937A1F973376}|Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj|c:\\users\\frank rojas\\documents\\repositorios\\base-api-.net-8\\base.infraestructura.datos\\repositorios\\implementacion\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF91BE9D-4983-401D-8A04-937A1F973376}|Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj|solutionrelative:base.infraestructura.datos\\repositorios\\implementacion\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|c:\\users\\emmapc\\repositorios\\base-api-.net-8\\base.domain\\entidades\\seguridad\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|solutionrelative:base.domain\\entidades\\seguridad\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17CA80E2-A6C2-4A6B-B8F8-67A0BE07DBC8}|Base.Application.Services\\Base.Application.Services.csproj|c:\\users\\frank rojas\\documents\\repositorios\\base-api-.net-8\\base.application.services\\registroservicios\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17CA80E2-A6C2-4A6B-B8F8-67A0BE07DBC8}|Base.Application.Services\\Base.Application.Services.csproj|solutionrelative:base.application.services\\registroservicios\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36D7131A-0F19-4767-A980-07B742A4A1C5}|Backend-Base\\Base.API.csproj|c:\\users\\emmapc\\repositorios\\base-api-.net-8\\backend-base\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36D7131A-0F19-4767-A980-07B742A4A1C5}|Backend-Base\\Base.API.csproj|solutionrelative:backend-base\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36D7131A-0F19-4767-A980-07B742A4A1C5}|Backend-Base\\Base.API.csproj|c:\\users\\frank rojas\\documents\\repositorios\\base-api-.net-8\\backend-base\\controllers\\universidad\\formulariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36D7131A-0F19-4767-A980-07B742A4A1C5}|Backend-Base\\Base.API.csproj|c:\\users\\emmapc\\repositorios\\base-api-.net-8\\backend-base\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{36D7131A-0F19-4767-A980-07B742A4A1C5}|Backend-Base\\Base.API.csproj|solutionrelative:backend-base\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D7131A-0F19-4767-A980-07B742A4A1C5}|Backend-Base\\Base.API.csproj|c:\\users\\emmapc\\repositorios\\base-api-.net-8\\backend-base\\controllers\\universidad\\formulariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36D7131A-0F19-4767-A980-07B742A4A1C5}|Backend-Base\\Base.API.csproj|solutionrelative:backend-base\\controllers\\universidad\\formulariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36D7131A-0F19-4767-A980-07B742A4A1C5}|Backend-Base\\Base.API.csproj|c:\\users\\frank rojas\\documents\\repositorios\\base-api-.net-8\\backend-base\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{36D7131A-0F19-4767-A980-07B742A4A1C5}|Backend-Base\\Base.API.csproj|solutionrelative:backend-base\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{17CA80E2-A6C2-4A6B-B8F8-67A0BE07DBC8}|Base.Application.Services\\Base.Application.Services.csproj|c:\\users\\emmapc\\repositorios\\base-api-.net-8\\base.application.services\\registroservicios\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CA80E2-A6C2-4A6B-B8F8-67A0BE07DBC8}|Base.Application.Services\\Base.Application.Services.csproj|solutionrelative:base.application.services\\registroservicios\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CA80E2-A6C2-4A6B-B8F8-67A0BE07DBC8}|Base.Application.Services\\Base.Application.Services.csproj|c:\\users\\emmapc\\repositorios\\base-api-.net-8\\base.application.services\\mapeo\\domaintodtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CA80E2-A6C2-4A6B-B8F8-67A0BE07DBC8}|Base.Application.Services\\Base.Application.Services.csproj|solutionrelative:base.application.services\\mapeo\\domaintodtomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D7131A-0F19-4767-A980-07B742A4A1C5}|Backend-Base\\Base.API.csproj|c:\\users\\emmapc\\repositorios\\base-api-.net-8\\backend-base\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D7131A-0F19-4767-A980-07B742A4A1C5}|Backend-Base\\Base.API.csproj|solutionrelative:backend-base\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,146 +70,158 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240915044129_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\Migrations\\20240915044129_Initial.cs",
+              "RelativeDocumentMoniker": "Base.Infraestructura.Datos\\Migrations\\20240915044129_Initial.cs",
+              "ToolTip": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\Migrations\\20240915044129_Initial.cs",
+              "RelativeToolTip": "Base.Infraestructura.Datos\\Migrations\\20240915044129_Initial.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T04:41:29.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DomainToDtoMappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Application.Services\\Mapeo\\DomainToDtoMappingProfile.cs",
-              "RelativeDocumentMoniker": "Base.Application.Services\\Mapeo\\DomainToDtoMappingProfile.cs",
-              "ToolTip": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Application.Services\\Mapeo\\DomainToDtoMappingProfile.cs",
-              "RelativeToolTip": "Base.Application.Services\\Mapeo\\DomainToDtoMappingProfile.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Title": "DataBaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\ContextoBD\\DataBaseContext.cs",
+              "RelativeDocumentMoniker": "Base.Infraestructura.Datos\\ContextoBD\\DataBaseContext.cs",
+              "ToolTip": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\ContextoBD\\DataBaseContext.cs",
+              "RelativeToolTip": "Base.Infraestructura.Datos\\ContextoBD\\DataBaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T01:31:06.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\Repositorios\\Implementacion\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "Base.Infraestructura.Datos\\Repositorios\\Implementacion\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\Repositorios\\Implementacion\\BaseRepository.cs",
-              "RelativeToolTip": "Base.Infraestructura.Datos\\Repositorios\\Implementacion\\BaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T01:38:03.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormularioDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Domain\\DTOs\\FormularioDTO.cs",
-              "RelativeDocumentMoniker": "Base.Domain\\DTOs\\FormularioDTO.cs",
-              "ToolTip": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Domain\\DTOs\\FormularioDTO.cs",
-              "RelativeToolTip": "Base.Domain\\DTOs\\FormularioDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T01:15:28.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T04:39:20.425Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Formulario.cs",
-              "DocumentMoniker": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Domain\\Entidades\\Universidad\\Formulario.cs",
-              "RelativeDocumentMoniker": "Base.Domain\\Entidades\\Universidad\\Formulario.cs",
-              "ToolTip": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Domain\\Entidades\\Universidad\\Formulario.cs",
-              "RelativeToolTip": "Base.Domain\\Entidades\\Universidad\\Formulario.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Base.Domain\\Entidades\\Personas\\Persona.cs",
+              "RelativeDocumentMoniker": "Base.Domain\\Entidades\\Personas\\Persona.cs",
+              "ToolTip": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Base.Domain\\Entidades\\Personas\\Persona.cs",
+              "RelativeToolTip": "Base.Domain\\Entidades\\Personas\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T00:56:37.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IFormularioService.cs",
-              "DocumentMoniker": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Application.Services\\Interfaces\\Contrato\\Universidad\\IFormularioService.cs",
-              "RelativeDocumentMoniker": "Base.Application.Services\\Interfaces\\Contrato\\Universidad\\IFormularioService.cs",
-              "ToolTip": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Application.Services\\Interfaces\\Contrato\\Universidad\\IFormularioService.cs",
-              "RelativeToolTip": "Base.Application.Services\\Interfaces\\Contrato\\Universidad\\IFormularioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T01:25:59.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormularioService.cs",
-              "DocumentMoniker": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Application.Services\\Interfaces\\Implementacion\\Universidad\\FormularioService.cs",
-              "RelativeDocumentMoniker": "Base.Application.Services\\Interfaces\\Implementacion\\Universidad\\FormularioService.cs",
-              "ToolTip": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Application.Services\\Interfaces\\Implementacion\\Universidad\\FormularioService.cs",
-              "RelativeToolTip": "Base.Application.Services\\Interfaces\\Implementacion\\Universidad\\FormularioService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T01:22:05.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormularioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\Repositorios\\Implementacion\\Universidad\\FormularioRepository.cs",
-              "RelativeDocumentMoniker": "Base.Infraestructura.Datos\\Repositorios\\Implementacion\\Universidad\\FormularioRepository.cs",
-              "ToolTip": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\Repositorios\\Implementacion\\Universidad\\FormularioRepository.cs",
-              "RelativeToolTip": "Base.Infraestructura.Datos\\Repositorios\\Implementacion\\Universidad\\FormularioRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T01:16:31.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T04:39:05.53Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IFormularioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\Repositorios\\Contrato\\Universidad\\IFormularioRepository.cs",
-              "RelativeDocumentMoniker": "Base.Infraestructura.Datos\\Repositorios\\Contrato\\Universidad\\IFormularioRepository.cs",
-              "ToolTip": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Infraestructura.Datos\\Repositorios\\Contrato\\Universidad\\IFormularioRepository.cs",
-              "RelativeToolTip": "Base.Infraestructura.Datos\\Repositorios\\Contrato\\Universidad\\IFormularioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Base.Domain\\Entidades\\Seguridad\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "Base.Domain\\Entidades\\Seguridad\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Base.Domain\\Entidades\\Seguridad\\ApplicationRole.cs",
+              "RelativeToolTip": "Base.Domain\\Entidades\\Seguridad\\ApplicationRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T01:19:18.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T04:38:57.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Application.Services\\RegistroServicios\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Base.Application.Services\\RegistroServicios\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Base.Application.Services\\RegistroServicios\\DependencyInjection.cs",
-              "RelativeToolTip": "Base.Application.Services\\RegistroServicios\\DependencyInjection.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDIAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Base.Domain\\Entidades\\Seguridad\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Base.Domain\\Entidades\\Seguridad\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Base.Domain\\Entidades\\Seguridad\\ApplicationUser.cs",
+              "RelativeToolTip": "Base.Domain\\Entidades\\Seguridad\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T01:31:02.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FormularioController.cs",
-              "DocumentMoniker": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Backend-Base\\Controllers\\Universidad\\FormularioController.cs",
-              "RelativeDocumentMoniker": "Backend-Base\\Controllers\\Universidad\\FormularioController.cs",
-              "ToolTip": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Backend-Base\\Controllers\\Universidad\\FormularioController.cs",
-              "RelativeToolTip": "Backend-Base\\Controllers\\Universidad\\FormularioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T01:28:51.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T04:38:42.185Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "DomainToDtoMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Base.Application.Services\\Mapeo\\DomainToDtoMappingProfile.cs",
+              "RelativeDocumentMoniker": "Base.Application.Services\\Mapeo\\DomainToDtoMappingProfile.cs",
+              "ToolTip": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Base.Application.Services\\Mapeo\\DomainToDtoMappingProfile.cs",
+              "RelativeToolTip": "Base.Application.Services\\Mapeo\\DomainToDtoMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:33:21.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Formulario.cs",
+              "DocumentMoniker": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Base.Domain\\Entidades\\Universidad\\Formulario.cs",
+              "RelativeDocumentMoniker": "Base.Domain\\Entidades\\Universidad\\Formulario.cs",
+              "ToolTip": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Base.Domain\\Entidades\\Universidad\\Formulario.cs",
+              "RelativeToolTip": "Base.Domain\\Entidades\\Universidad\\Formulario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T21:44:08.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Backend-Base\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Backend-Base\\appsettings.json",
               "RelativeDocumentMoniker": "Backend-Base\\appsettings.json",
-              "ToolTip": "C:\\Users\\Frank Rojas\\Documents\\Repositorios\\Base-API-.NET-8\\Backend-Base\\appsettings.json",
+              "ToolTip": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Backend-Base\\appsettings.json",
               "RelativeToolTip": "Backend-Base\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-14T00:55:34.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T04:32:44.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Base.Application.Services\\RegistroServicios\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Base.Application.Services\\RegistroServicios\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Base.Application.Services\\RegistroServicios\\DependencyInjection.cs",
+              "RelativeToolTip": "Base.Application.Services\\RegistroServicios\\DependencyInjection.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:33:10.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Backend-Base\\Program.cs",
+              "RelativeDocumentMoniker": "Backend-Base\\Program.cs",
+              "ToolTip": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Backend-Base\\Program.cs",
+              "RelativeToolTip": "Backend-Base\\Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:30:00.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Backend-Base\\.env",
+              "RelativeDocumentMoniker": "Backend-Base\\.env",
+              "ToolTip": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Backend-Base\\.env",
+              "RelativeToolTip": "Backend-Base\\.env",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-15T04:32:46.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormularioController.cs",
+              "DocumentMoniker": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Backend-Base\\Controllers\\Universidad\\FormularioController.cs",
+              "RelativeDocumentMoniker": "Backend-Base\\Controllers\\Universidad\\FormularioController.cs",
+              "ToolTip": "C:\\Users\\EmmaPC\\Repositorios\\Base-API-.NET-8\\Backend-Base\\Controllers\\Universidad\\FormularioController.cs",
+              "RelativeToolTip": "Backend-Base\\Controllers\\Universidad\\FormularioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T21:49:41.32Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

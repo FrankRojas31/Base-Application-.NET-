@@ -157,10 +157,7 @@
       },
       "Base.Common/1.0.0": {
         "runtime": {
-          "Base.Common.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Base.Common.dll": {}
         }
       }
     }

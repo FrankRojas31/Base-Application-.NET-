@@ -29,3 +29,19 @@ C:\Users\Frank Rojas\Documents\Repositorios\Base-API-.NET-8\Base.Domain\obj\Debu
 C:\Users\Frank Rojas\Documents\Repositorios\Base-API-.NET-8\Base.Domain\obj\Debug\net8.0\refint\Base.Domain.dll
 C:\Users\Frank Rojas\Documents\Repositorios\Base-API-.NET-8\Base.Domain\obj\Debug\net8.0\Base.Domain.pdb
 C:\Users\Frank Rojas\Documents\Repositorios\Base-API-.NET-8\Base.Domain\obj\Debug\net8.0\ref\Base.Domain.dll
+C:\Users\EmmaPC\Repositorios\Base-API-.NET-8\Base.Domain\bin\Debug\net8.0\Base.Domain.deps.json
+C:\Users\EmmaPC\Repositorios\Base-API-.NET-8\Base.Domain\bin\Debug\net8.0\Base.Domain.dll
+C:\Users\EmmaPC\Repositorios\Base-API-.NET-8\Base.Domain\bin\Debug\net8.0\Base.Domain.pdb
+C:\Users\EmmaPC\Repositorios\Base-API-.NET-8\Base.Domain\bin\Debug\net8.0\Base.Common.dll
+C:\Users\EmmaPC\Repositorios\Base-API-.NET-8\Base.Domain\bin\Debug\net8.0\Base.Common.pdb
+C:\Users\EmmaPC\Repositorios\Base-API-.NET-8\Base.Domain\obj\Debug\net8.0\Base.Domain.csproj.AssemblyReference.cache
+C:\Users\EmmaPC\Repositorios\Base-API-.NET-8\Base.Domain\obj\Debug\net8.0\Base.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmmaPC\Repositorios\Base-API-.NET-8\Base.Domain\obj\Debug\net8.0\Base.Domain.AssemblyInfoInputs.cache
+C:\Users\EmmaPC\Repositorios\Base-API-.NET-8\Base.Domain\obj\Debug\net8.0\Base.Domain.AssemblyInfo.cs
+C:\Users\EmmaPC\Repositorios\Base-API-.NET-8\Base.Domain\obj\Debug\net8.0\Base.Domain.csproj.CoreCompileInputs.cache
+C:\Users\EmmaPC\Repositorios\Base-API-.NET-8\Base.Domain\obj\Debug\net8.0\Base.Domain.sourcelink.json
+C:\Users\EmmaPC\Repositorios\Base-API-.NET-8\Base.Domain\obj\Debug\net8.0\Base.Dom.FA02210C.Up2Date
+C:\Users\EmmaPC\Repositorios\Base-API-.NET-8\Base.Domain\obj\Debug\net8.0\Base.Domain.dll
+C:\Users\EmmaPC\Repositorios\Base-API-.NET-8\Base.Domain\obj\Debug\net8.0\refint\Base.Domain.dll
+C:\Users\EmmaPC\Repositorios\Base-API-.NET-8\Base.Domain\obj\Debug\net8.0\Base.Domain.pdb
+C:\Users\EmmaPC\Repositorios\Base-API-.NET-8\Base.Domain\obj\Debug\net8.0\ref\Base.Domain.dll

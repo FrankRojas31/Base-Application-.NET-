@@ -14,7 +14,7 @@ namespace Backend_Base.Controllers.Universidad
     {
         private readonly IFormularioService _formularioService;
 
-        public FormularioController(IServiceBase<Formulario, FormularioDTO> service, IFormularioService formularioService) : base(service)
+        public FormularioController(IFormularioService formularioService) : base(formularioService)
         {
             _formularioService = formularioService;
         }

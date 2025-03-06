@@ -4,6 +4,7 @@ using Base.Infraestructura.Datos.ContextoBD;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Base.Infraestructura.Data.Migrations
 {
     [DbContext(typeof(DataBaseContext))]
-    partial class DataBaseContextModelSnapshot : ModelSnapshot
+    [Migration("20250306202300_Initial2")]
+    partial class Initial2
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -207,22 +210,18 @@ namespace Base.Infraestructura.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Apellido_Materno")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Apellido_Paterno")
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<bool>("EsBorrado")
                         .HasColumnType("bit");
+
+                    b.Property<int?>("IdPersona")
+                        .HasColumnType("int");
 
                     b.Property<int>("Matricula")
                         .HasColumnType("int");
 
-                    b.Property<string>("Nombres")
-                        .HasColumnType("nvarchar(max)");
-
                     b.HasKey("Id");
+
+                    b.HasIndex("IdPersona");
 
                     b.ToTable("Tbl_Alumnos");
                 });
@@ -262,12 +261,6 @@ namespace Base.Infraestructura.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Apellido_Materno")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Apellido_Paterno")
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("Cedula")
                         .HasColumnType("nvarchar(max)");
 
@@ -280,13 +273,15 @@ namespace Base.Infraestructura.Data.Migrations
                     b.Property<string>("Grado")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int?>("IdPersona")
+                        .HasColumnType("int");
+
                     b.Property<int>("NoEmpleado")
                         .HasColumnType("int");
 
-                    b.Property<string>("Nombres")
-                        .HasColumnType("nvarchar(max)");
-
                     b.HasKey("Id");
+
+                    b.HasIndex("IdPersona");
 
                     b.ToTable("Tbl_Profesor");
                 });
@@ -567,6 +562,24 @@ namespace Base.Infraestructura.Data.Migrations
                     b.Navigation("Grupos");
 
                     b.Navigation("Periodos");
+                });
+
+            modelBuilder.Entity("Base.Domain.Entidades.Personas.Alumno", b =>
+                {
+                    b.HasOne("Base.Domain.Entidades.Personas.Persona", "Persona")
+                        .WithMany()
+                        .HasForeignKey("IdPersona");
+
+                    b.Navigation("Persona");
+                });
+
+            modelBuilder.Entity("Base.Domain.Entidades.Personas.Profesor", b =>
+                {
+                    b.HasOne("Base.Domain.Entidades.Personas.Persona", "Persona")
+                        .WithMany()
+                        .HasForeignKey("IdPersona");
+
+                    b.Navigation("Persona");
                 });
 
             modelBuilder.Entity("Base.Domain.Entidades.Seguridad.ApplicationUser", b =>

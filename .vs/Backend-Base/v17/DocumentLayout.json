@@ -1,7 +1,68 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF91BE9D-4983-401D-8A04-937A1F973376}|Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj|c:\\users\\fcoem\\onedrive\\documentos\\vue \u002B .net\\base-application-.net-\\base.infraestructura.datos\\migrations\\20250306093230_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF91BE9D-4983-401D-8A04-937A1F973376}|Base.Infraestructura.Datos\\Base.Infraestructura.Data.csproj|solutionrelative:base.infraestructura.datos\\migrations\\20250306093230_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|c:\\users\\fcoem\\onedrive\\documentos\\vue \u002B .net\\base-application-.net-\\base.domain\\entidades\\personas\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|solutionrelative:base.domain\\entidades\\personas\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|c:\\users\\fcoem\\onedrive\\documentos\\vue \u002B .net\\base-application-.net-\\base.domain\\entidades\\personas\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|solutionrelative:base.domain\\entidades\\personas\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|c:\\users\\fcoem\\onedrive\\documentos\\vue \u002B .net\\base-application-.net-\\base.domain\\entidades\\personas\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|solutionrelative:base.domain\\entidades\\personas\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Infraestructura.Datos\\Migrations\\20250306092724_Initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Base.Infraestructura.Datos\\Migrations\\20250306092724_Initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|c:\\users\\fcoem\\onedrive\\documentos\\vue \u002B .net\\base-application-.net-\\base.domain\\dtos\\personas\\profesordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|solutionrelative:base.domain\\dtos\\personas\\profesordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|c:\\users\\fcoem\\onedrive\\documentos\\vue \u002B .net\\base-application-.net-\\base.domain\\dtos\\personas\\alumnodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|solutionrelative:base.domain\\dtos\\personas\\alumnodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|c:\\users\\fcoem\\onedrive\\documentos\\vue \u002B .net\\base-application-.net-\\base.domain\\dtos\\personas\\personadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|solutionrelative:base.domain\\dtos\\personas\\personadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|c:\\users\\fcoem\\onedrive\\documentos\\vue \u002B .net\\base-application-.net-\\base.domain\\dtos\\periodos\\periododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|solutionrelative:base.domain\\dtos\\periodos\\periododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|c:\\users\\fcoem\\onedrive\\documentos\\vue \u002B .net\\base-application-.net-\\base.domain\\dtos\\grupos\\gruposperiodosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|solutionrelative:base.domain\\dtos\\grupos\\gruposperiodosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|c:\\users\\fcoem\\onedrive\\documentos\\vue \u002B .net\\base-application-.net-\\base.domain\\dtos\\grupos\\gruposdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|solutionrelative:base.domain\\dtos\\grupos\\gruposdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|c:\\users\\fcoem\\onedrive\\documentos\\vue \u002B .net\\base-application-.net-\\base.domain\\dtos\\grupos\\gruposalumnosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|solutionrelative:base.domain\\dtos\\grupos\\gruposalumnosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|c:\\users\\fcoem\\onedrive\\documentos\\vue \u002B .net\\base-application-.net-\\base.domain\\dtos\\grupos\\clases\\unidadesmateriasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|solutionrelative:base.domain\\dtos\\grupos\\clases\\unidadesmateriasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|c:\\users\\fcoem\\onedrive\\documentos\\vue \u002B .net\\base-application-.net-\\base.domain\\dtos\\grupos\\clases\\unidadesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|solutionrelative:base.domain\\dtos\\grupos\\clases\\unidadesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|c:\\users\\fcoem\\onedrive\\documentos\\vue \u002B .net\\base-application-.net-\\base.domain\\dtos\\grupos\\clases\\materiasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B3BF92-B0F1-48E4-BA15-0BB4C5729229}|Base.Domain\\Base.Domain.csproj|solutionrelative:base.domain\\dtos\\grupos\\clases\\materiasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +79,209 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250306093230_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Infraestructura.Datos\\Migrations\\20250306093230_Initial.cs",
+              "RelativeDocumentMoniker": "Base.Infraestructura.Datos\\Migrations\\20250306093230_Initial.cs",
+              "ToolTip": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Infraestructura.Datos\\Migrations\\20250306093230_Initial.cs",
+              "RelativeToolTip": "Base.Infraestructura.Datos\\Migrations\\20250306093230_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:32:30.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250306092724_Initial1.cs",
+              "DocumentMoniker": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Infraestructura.Datos\\Migrations\\20250306092724_Initial1.cs",
+              "RelativeDocumentMoniker": "Base.Infraestructura.Datos\\Migrations\\20250306092724_Initial1.cs",
+              "ToolTip": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Infraestructura.Datos\\Migrations\\20250306092724_Initial1.cs",
+              "RelativeToolTip": "Base.Infraestructura.Datos\\Migrations\\20250306092724_Initial1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:27:25.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\Entidades\\Personas\\Profesor.cs",
+              "RelativeDocumentMoniker": "Base.Domain\\Entidades\\Personas\\Profesor.cs",
+              "ToolTip": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\Entidades\\Personas\\Profesor.cs",
+              "RelativeToolTip": "Base.Domain\\Entidades\\Personas\\Profesor.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:26:34.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PeriodoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\DTOs\\Periodos\\PeriodoDTO.cs",
+              "RelativeDocumentMoniker": "Base.Domain\\DTOs\\Periodos\\PeriodoDTO.cs",
+              "ToolTip": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\DTOs\\Periodos\\PeriodoDTO.cs",
+              "RelativeToolTip": "Base.Domain\\DTOs\\Periodos\\PeriodoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:26:23.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GruposPeriodosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\DTOs\\Grupos\\GruposPeriodosDTO.cs",
+              "RelativeDocumentMoniker": "Base.Domain\\DTOs\\Grupos\\GruposPeriodosDTO.cs",
+              "ToolTip": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\DTOs\\Grupos\\GruposPeriodosDTO.cs",
+              "RelativeToolTip": "Base.Domain\\DTOs\\Grupos\\GruposPeriodosDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:26:21.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GruposDTO.cs",
+              "DocumentMoniker": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\DTOs\\Grupos\\GruposDTO.cs",
+              "RelativeDocumentMoniker": "Base.Domain\\DTOs\\Grupos\\GruposDTO.cs",
+              "ToolTip": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\DTOs\\Grupos\\GruposDTO.cs",
+              "RelativeToolTip": "Base.Domain\\DTOs\\Grupos\\GruposDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:26:20.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GruposAlumnosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\DTOs\\Grupos\\GruposAlumnosDTO.cs",
+              "RelativeDocumentMoniker": "Base.Domain\\DTOs\\Grupos\\GruposAlumnosDTO.cs",
+              "ToolTip": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\DTOs\\Grupos\\GruposAlumnosDTO.cs",
+              "RelativeToolTip": "Base.Domain\\DTOs\\Grupos\\GruposAlumnosDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:26:20.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnidadesMateriasDTO.cs",
+              "DocumentMoniker": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\DTOs\\Grupos\\Clases\\UnidadesMateriasDTO.cs",
+              "RelativeDocumentMoniker": "Base.Domain\\DTOs\\Grupos\\Clases\\UnidadesMateriasDTO.cs",
+              "ToolTip": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\DTOs\\Grupos\\Clases\\UnidadesMateriasDTO.cs",
+              "RelativeToolTip": "Base.Domain\\DTOs\\Grupos\\Clases\\UnidadesMateriasDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:26:19.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnidadesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\DTOs\\Grupos\\Clases\\UnidadesDTO.cs",
+              "RelativeDocumentMoniker": "Base.Domain\\DTOs\\Grupos\\Clases\\UnidadesDTO.cs",
+              "ToolTip": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\DTOs\\Grupos\\Clases\\UnidadesDTO.cs",
+              "RelativeToolTip": "Base.Domain\\DTOs\\Grupos\\Clases\\UnidadesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:26:18.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MateriasDTO.cs",
+              "DocumentMoniker": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\DTOs\\Grupos\\Clases\\MateriasDTO.cs",
+              "RelativeDocumentMoniker": "Base.Domain\\DTOs\\Grupos\\Clases\\MateriasDTO.cs",
+              "ToolTip": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\DTOs\\Grupos\\Clases\\MateriasDTO.cs",
+              "RelativeToolTip": "Base.Domain\\DTOs\\Grupos\\Clases\\MateriasDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:26:17.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\DTOs\\Personas\\PersonaDTO.cs",
+              "RelativeDocumentMoniker": "Base.Domain\\DTOs\\Personas\\PersonaDTO.cs",
+              "ToolTip": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\DTOs\\Personas\\PersonaDTO.cs",
+              "RelativeToolTip": "Base.Domain\\DTOs\\Personas\\PersonaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:25:42.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlumnoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\DTOs\\Personas\\AlumnoDTO.cs",
+              "RelativeDocumentMoniker": "Base.Domain\\DTOs\\Personas\\AlumnoDTO.cs",
+              "ToolTip": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\DTOs\\Personas\\AlumnoDTO.cs",
+              "RelativeToolTip": "Base.Domain\\DTOs\\Personas\\AlumnoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:25:39.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfesorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\DTOs\\Personas\\ProfesorDTO.cs",
+              "RelativeDocumentMoniker": "Base.Domain\\DTOs\\Personas\\ProfesorDTO.cs",
+              "ToolTip": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\DTOs\\Personas\\ProfesorDTO.cs",
+              "RelativeToolTip": "Base.Domain\\DTOs\\Personas\\ProfesorDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:25:38.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\Entidades\\Personas\\Persona.cs",
+              "RelativeDocumentMoniker": "Base.Domain\\Entidades\\Personas\\Persona.cs",
+              "ToolTip": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\Entidades\\Personas\\Persona.cs",
+              "RelativeToolTip": "Base.Domain\\Entidades\\Personas\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:25:26.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\Entidades\\Personas\\Alumno.cs",
+              "RelativeDocumentMoniker": "Base.Domain\\Entidades\\Personas\\Alumno.cs",
+              "ToolTip": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue \u002B .NET\\Base-Application-.NET-\\Base.Domain\\Entidades\\Personas\\Alumno.cs",
+              "RelativeToolTip": "Base.Domain\\Entidades\\Personas\\Alumno.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:25:22.147Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

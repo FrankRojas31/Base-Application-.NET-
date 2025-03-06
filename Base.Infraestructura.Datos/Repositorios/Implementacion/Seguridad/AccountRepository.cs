@@ -282,7 +282,7 @@ namespace Base.Infraestructura.Data.Repositorios.Implementacion.Seguridad
         {
             List<IdentityRole> roles = new List<IdentityRole>();
 
-            roles = roleManager.Roles.ToList();
+            roles = await roleManager.Roles.ToListAsync();
 
             return roles;
         }

@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Domain\\Base.Domain.csproj": {}
+    "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue + .NET\\Base-Application-.NET-\\Base.Domain\\Base.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Common\\Base.Common.csproj": {
+    "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue + .NET\\Base-Application-.NET-\\Base.Common\\Base.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Common\\Base.Common.csproj",
+        "projectUniqueName": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue + .NET\\Base-Application-.NET-\\Base.Common\\Base.Common.csproj",
         "projectName": "Base.Common",
-        "projectPath": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Common\\Base.Common.csproj",
-        "packagesPath": "C:\\Users\\EmmaPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Common\\obj\\",
+        "projectPath": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue + .NET\\Base-Application-.NET-\\Base.Common\\Base.Common.csproj",
+        "packagesPath": "C:\\Users\\fcoem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue + .NET\\Base-Application-.NET-\\Base.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\EmmaPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fcoem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -63,24 +65,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Domain\\Base.Domain.csproj": {
+    "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue + .NET\\Base-Application-.NET-\\Base.Domain\\Base.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Domain\\Base.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue + .NET\\Base-Application-.NET-\\Base.Domain\\Base.Domain.csproj",
         "projectName": "Base.Domain",
-        "projectPath": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Domain\\Base.Domain.csproj",
-        "packagesPath": "C:\\Users\\EmmaPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Domain\\obj\\",
+        "projectPath": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue + .NET\\Base-Application-.NET-\\Base.Domain\\Base.Domain.csproj",
+        "packagesPath": "C:\\Users\\fcoem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue + .NET\\Base-Application-.NET-\\Base.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\EmmaPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fcoem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -94,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Common\\Base.Common.csproj": {
-                "projectPath": "C:\\Users\\EmmaPC\\Documents\\Repositorios\\Backend-Base\\Base.Common\\Base.Common.csproj"
+              "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue + .NET\\Base-Application-.NET-\\Base.Common\\Base.Common.csproj": {
+                "projectPath": "C:\\Users\\fcoem\\OneDrive\\Documentos\\Vue + .NET\\Base-Application-.NET-\\Base.Common\\Base.Common.csproj"
               }
             }
           }
@@ -109,7 +112,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -140,7 +144,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

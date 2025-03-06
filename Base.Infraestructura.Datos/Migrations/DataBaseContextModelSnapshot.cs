@@ -22,7 +22,53 @@ namespace Base.Infraestructura.Data.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("Base.Domain.Entidades.Personas.Persona", b =>
+            modelBuilder.Entity("Base.Domain.Entidades.Grupos.Clases.Materias", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnOrder(0);
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Descripcion")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("EsBorrado")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Nombre")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Tbl_Materias");
+                });
+
+            modelBuilder.Entity("Base.Domain.Entidades.Grupos.Clases.Unidades", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnOrder(0);
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Descripcion")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("EsBorrado")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Nombre")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Tbl_Unidades");
+                });
+
+            modelBuilder.Entity("Base.Domain.Entidades.Grupos.Clases.UnidadesMaterias", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -34,9 +80,207 @@ namespace Base.Infraestructura.Data.Migrations
                     b.Property<bool>("EsBorrado")
                         .HasColumnType("bit");
 
+                    b.Property<int>("IdMateria")
+                        .HasColumnType("int");
+
+                    b.Property<int>("IdUnidad")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
-                    b.ToTable("Persona");
+                    b.HasIndex("IdMateria");
+
+                    b.HasIndex("IdUnidad");
+
+                    b.ToTable("Tbl_UnidadesMaterias");
+                });
+
+            modelBuilder.Entity("Base.Domain.Entidades.Grupos.Grupo", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnOrder(0);
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Descripcion")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("EsBorrado")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Nombre")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Tbl_Grupos");
+                });
+
+            modelBuilder.Entity("Base.Domain.Entidades.Grupos.GruposAlumnos", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnOrder(0);
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<bool>("EsBorrado")
+                        .HasColumnType("bit");
+
+                    b.Property<int>("IdAlumno")
+                        .HasColumnType("int");
+
+                    b.Property<int>("IdGrupo")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("IdAlumno");
+
+                    b.HasIndex("IdGrupo");
+
+                    b.ToTable("Tbl_GruposAlumnos");
+                });
+
+            modelBuilder.Entity("Base.Domain.Entidades.Grupos.GruposPeriodos", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnOrder(0);
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<bool>("EsBorrado")
+                        .HasColumnType("bit");
+
+                    b.Property<int>("IdGrupo")
+                        .HasColumnType("int");
+
+                    b.Property<int>("IdPeriodo")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("IdGrupo");
+
+                    b.HasIndex("IdPeriodo");
+
+                    b.ToTable("Tbl_GruposPeriodos");
+                });
+
+            modelBuilder.Entity("Base.Domain.Entidades.Periodos.Periodo", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnOrder(0);
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<bool>("EsBorrado")
+                        .HasColumnType("bit");
+
+                    b.Property<DateTime>("FechaFin")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime>("FechaInicio")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Nombre")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Tbl_Periodos");
+                });
+
+            modelBuilder.Entity("Base.Domain.Entidades.Personas.Alumno", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnOrder(0);
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<bool>("EsBorrado")
+                        .HasColumnType("bit");
+
+                    b.Property<int>("IdPersona")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Matricula")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("IdPersona");
+
+                    b.ToTable("Tbl_Alumnos");
+                });
+
+            modelBuilder.Entity("Base.Domain.Entidades.Personas.Persona", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnOrder(0);
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Apellido_Materno")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Apellido_Paterno")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("EsBorrado")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Nombres")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Tbl_Persona");
+                });
+
+            modelBuilder.Entity("Base.Domain.Entidades.Personas.Profesor", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnOrder(0);
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Cedula")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("EsBorrado")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Especialidad")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Grado")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("IdPersona")
+                        .HasColumnType("int");
+
+                    b.Property<int>("NoEmpleado")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("IdPersona");
+
+                    b.ToTable("Tbl_Profesor");
                 });
 
             modelBuilder.Entity("Base.Domain.Entidades.Seguridad.ApplicationUser", b =>
@@ -71,7 +315,6 @@ namespace Base.Infraestructura.Data.Migrations
                         .HasColumnType("datetimeoffset");
 
                     b.Property<string>("Name")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("NormalizedEmail")
@@ -92,7 +335,6 @@ namespace Base.Infraestructura.Data.Migrations
                         .HasColumnType("bit");
 
                     b.Property<string>("RefreshToken")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime?>("RefreshTokenExpiryTime")
@@ -111,7 +353,7 @@ namespace Base.Infraestructura.Data.Migrations
                         .HasMaxLength(256)
                         .HasColumnType("nvarchar(256)");
 
-                    b.Property<int>("personaId")
+                    b.Property<int?>("personaId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -262,13 +504,90 @@ namespace Base.Infraestructura.Data.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("Base.Domain.Entidades.Grupos.Clases.UnidadesMaterias", b =>
+                {
+                    b.HasOne("Base.Domain.Entidades.Grupos.Clases.Materias", "Materia")
+                        .WithMany()
+                        .HasForeignKey("IdMateria")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Base.Domain.Entidades.Grupos.Clases.Unidades", "Unidad")
+                        .WithMany()
+                        .HasForeignKey("IdUnidad")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Materia");
+
+                    b.Navigation("Unidad");
+                });
+
+            modelBuilder.Entity("Base.Domain.Entidades.Grupos.GruposAlumnos", b =>
+                {
+                    b.HasOne("Base.Domain.Entidades.Personas.Alumno", "Alumno")
+                        .WithMany()
+                        .HasForeignKey("IdAlumno")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Base.Domain.Entidades.Grupos.Grupo", "Grupo")
+                        .WithMany()
+                        .HasForeignKey("IdGrupo")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Alumno");
+
+                    b.Navigation("Grupo");
+                });
+
+            modelBuilder.Entity("Base.Domain.Entidades.Grupos.GruposPeriodos", b =>
+                {
+                    b.HasOne("Base.Domain.Entidades.Grupos.Grupo", "Grupos")
+                        .WithMany()
+                        .HasForeignKey("IdGrupo")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Base.Domain.Entidades.Periodos.Periodo", "Periodos")
+                        .WithMany()
+                        .HasForeignKey("IdPeriodo")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Grupos");
+
+                    b.Navigation("Periodos");
+                });
+
+            modelBuilder.Entity("Base.Domain.Entidades.Personas.Alumno", b =>
+                {
+                    b.HasOne("Base.Domain.Entidades.Personas.Persona", "Persona")
+                        .WithMany()
+                        .HasForeignKey("IdPersona")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Persona");
+                });
+
+            modelBuilder.Entity("Base.Domain.Entidades.Personas.Profesor", b =>
+                {
+                    b.HasOne("Base.Domain.Entidades.Personas.Persona", "Persona")
+                        .WithMany()
+                        .HasForeignKey("IdPersona")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Persona");
+                });
+
             modelBuilder.Entity("Base.Domain.Entidades.Seguridad.ApplicationUser", b =>
                 {
                     b.HasOne("Base.Domain.Entidades.Personas.Persona", "persona")
                         .WithMany()
-                        .HasForeignKey("personaId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("personaId");
 
                     b.Navigation("persona");
                 });

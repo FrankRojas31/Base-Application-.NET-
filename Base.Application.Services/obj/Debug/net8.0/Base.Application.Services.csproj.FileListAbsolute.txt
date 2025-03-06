@@ -17,3 +17,23 @@ C:\Users\EmmaPC\Documents\Repositorios\Backend-Base\Base.Application.Services\ob
 C:\Users\EmmaPC\Documents\Repositorios\Backend-Base\Base.Application.Services\obj\Debug\net8.0\ref\Base.Application.Services.dll
 C:\Users\EmmaPC\Documents\Repositorios\Backend-Base\Base.Application.Services\bin\Debug\net8.0\Base.Infraestructura.Data.dll
 C:\Users\EmmaPC\Documents\Repositorios\Backend-Base\Base.Application.Services\bin\Debug\net8.0\Base.Infraestructura.Data.pdb
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Application.Services\bin\Debug\net8.0\Base.Application.Services.deps.json
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Application.Services\bin\Debug\net8.0\Base.Application.Services.dll
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Application.Services\bin\Debug\net8.0\Base.Application.Services.pdb
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Application.Services\bin\Debug\net8.0\Base.Common.dll
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Application.Services\bin\Debug\net8.0\Base.Domain.dll
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Application.Services\bin\Debug\net8.0\Base.Infraestructura.Data.dll
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Application.Services\bin\Debug\net8.0\Base.Domain.pdb
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Application.Services\bin\Debug\net8.0\Base.Infraestructura.Data.pdb
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Application.Services\bin\Debug\net8.0\Base.Common.pdb
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Application.Services\obj\Debug\net8.0\Base.Application.Services.csproj.AssemblyReference.cache
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Application.Services\obj\Debug\net8.0\Base.Application.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Application.Services\obj\Debug\net8.0\Base.Application.Services.AssemblyInfoInputs.cache
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Application.Services\obj\Debug\net8.0\Base.Application.Services.AssemblyInfo.cs
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Application.Services\obj\Debug\net8.0\Base.Application.Services.csproj.CoreCompileInputs.cache
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Application.Services\obj\Debug\net8.0\Base.Application.Services.sourcelink.json
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Application.Services\obj\Debug\net8.0\Base.App.54AF4622.Up2Date
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Application.Services\obj\Debug\net8.0\Base.Application.Services.dll
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Application.Services\obj\Debug\net8.0\refint\Base.Application.Services.dll
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Application.Services\obj\Debug\net8.0\Base.Application.Services.pdb
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Application.Services\obj\Debug\net8.0\ref\Base.Application.Services.dll

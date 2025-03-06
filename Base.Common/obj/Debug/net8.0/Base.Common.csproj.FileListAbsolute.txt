@@ -9,3 +9,15 @@ C:\Users\EmmaPC\Documents\Repositorios\Backend-Base\Base.Common\obj\Debug\net8.0
 C:\Users\EmmaPC\Documents\Repositorios\Backend-Base\Base.Common\obj\Debug\net8.0\refint\Base.Common.dll
 C:\Users\EmmaPC\Documents\Repositorios\Backend-Base\Base.Common\obj\Debug\net8.0\Base.Common.pdb
 C:\Users\EmmaPC\Documents\Repositorios\Backend-Base\Base.Common\obj\Debug\net8.0\ref\Base.Common.dll
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Common\bin\Debug\net8.0\Base.Common.deps.json
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Common\bin\Debug\net8.0\Base.Common.dll
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Common\bin\Debug\net8.0\Base.Common.pdb
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Common\obj\Debug\net8.0\Base.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Common\obj\Debug\net8.0\Base.Common.AssemblyInfoInputs.cache
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Common\obj\Debug\net8.0\Base.Common.AssemblyInfo.cs
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Common\obj\Debug\net8.0\Base.Common.csproj.CoreCompileInputs.cache
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Common\obj\Debug\net8.0\Base.Common.sourcelink.json
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Common\obj\Debug\net8.0\Base.Common.dll
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Common\obj\Debug\net8.0\refint\Base.Common.dll
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Common\obj\Debug\net8.0\Base.Common.pdb
+C:\Users\fcoem\OneDrive\Documentos\Vue + .NET\Base-Application-.NET-\Base.Common\obj\Debug\net8.0\ref\Base.Common.dll

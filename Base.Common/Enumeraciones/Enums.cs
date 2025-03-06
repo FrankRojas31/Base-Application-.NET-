@@ -6,7 +6,7 @@ namespace Base.Common.Enumeraciones
     {
         public enum EstatusUsuario
         {
-            [Display(Name = "Activo")] ACTIVO, INACTIVO
+            ACTIVO, INACTIVO
         }
     }
 }

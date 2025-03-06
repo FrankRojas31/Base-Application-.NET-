@@ -11,7 +11,7 @@ namespace Base.API.Controllers.Seguridad
     {
         [HttpPost("register")]
         public async Task<IActionResult> Register(UserDTO userDTO)
-        {
+            {
             var response = await userAccountService.CreateAccount(userDTO);
             return Ok(response);
         }

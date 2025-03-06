@@ -19,16 +19,16 @@ namespace Base.Application.Services.Mapeo
         public DomainToDtoMappingProfile()
         {
             this.CreateMap<BaseEntity, BaseDTO>();
-            this.CreateMap<Grupo, GruposDTO>();
-            this.CreateMap<GruposAlumnos, GruposAlumnosDTO>();
-            this.CreateMap<GruposPeriodos, GruposPeriodosDTO>();
-            this.CreateMap<Periodo, PeriodoDTO>();
-            this.CreateMap<Profesor, ProfesorDTO>();
-            this.CreateMap<Alumno, AlumnoDTO>();
-            this.CreateMap<Materias, MateriasDTO>();
-            this.CreateMap<Unidades, UnidadesDTO>();
-            this.CreateMap<UnidadesMaterias, UnidadesMateriasDTO>();
-            this.CreateMap<Persona, PersonaDTO>();
+            this.CreateMap<Grupo, GruposDTO>().ReverseMap();
+            this.CreateMap<GruposAlumnos, GruposAlumnosDTO>().ReverseMap();
+            this.CreateMap<GruposPeriodos, GruposPeriodosDTO>().ReverseMap();
+            this.CreateMap<Periodo, PeriodoDTO>().ReverseMap();
+            this.CreateMap<Profesor, ProfesorDTO>().ReverseMap();
+            this.CreateMap<Alumno, AlumnoDTO>().ReverseMap();
+            this.CreateMap<Materias, MateriasDTO>().ReverseMap();
+            this.CreateMap<Unidades, UnidadesDTO>().ReverseMap();
+            this.CreateMap<UnidadesMaterias, UnidadesMateriasDTO>().ReverseMap();
+            this.CreateMap<Persona, PersonaDTO>().ReverseMap();
 
         }
     }
